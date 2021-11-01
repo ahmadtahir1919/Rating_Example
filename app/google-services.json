@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272adw2210258",
+    "project_id": "documents121",
+    "storage_bucket": "documents-111"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272001408958:android:c7e36d0da4e488d6e7a3ef",
+        "android_client_info": {
+          "package_name": "com.example.ratingexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272sds001408958-f68pi5aksslglc4fetgvn6q1joir6qgdsr.apps.googleuscxcxercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5Gcixxzxs2e9QUk3MlalMLJeDt47gbNZT1QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27200140dsdcxc8958-f68pi5aklglcxsdsddsc4fetgvn6q1joir6qgxczdsr.apps.googlexzcxcxzusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
